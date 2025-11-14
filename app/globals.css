@@ -48,7 +48,7 @@ body {
 .feature-header {
   margin-bottom: 20px;
   padding-bottom: 10px;
-  border-bottom: 2px solid #e5e7eb;
+  border-bottom: 4px solid #000;
 }
 
 .feature-title {
@@ -75,11 +75,6 @@ body {
   display: flex;
   flex-direction: column;
   gap: 15px;
-  margin-top: -20px;
-}
-
-.feature-image:first-child {
-  margin-top: 0;
 }
 
 .feature-image img {
